@@ -1,3 +1,6 @@
+Tutorial:
+https://www.freecodecamp.org/news/how-to-build-a-rocketchat-bot-with-typescript/
+
 Usage:
 
 1. Create a .env
